@@ -1,0 +1,23 @@
+{
+  "name": "page-communication",
+  "version": "1.0.0",
+  "description": "Communication between web pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luojiaoye/page-communication.git"
+  },
+  "keywords": [
+    "webpages",
+    "communication"
+  ],
+  "author": "kangzijun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luojiaoye/page-communication/issues"
+  },
+  "homepage": "https://github.com/Luojiaoye/page-communication#readme"
+}
